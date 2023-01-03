@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929925871900",
+    "project_id": "play-a-game-48016",
+    "storage_bucket": "play-a-game-48016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929925871900:android:80af06d9e5e8025f4a22d9",
+        "android_client_info": {
+          "package_name": "com.example.playagame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929925871900-tnol5ou2pgr2j240ntcgpc7d6vu4kstl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLi0MdIBMKKvBzxNakcRma4YryIKgbJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929925871900-tnol5ou2pgr2j240ntcgpc7d6vu4kstl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
